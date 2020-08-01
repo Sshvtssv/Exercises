@@ -11,3 +11,16 @@ C:\Users\Кристина\source\repos\Exercise1\Exercise1\obj\Debug\netcoreapp3
 C:\Users\Кристина\source\repos\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
 C:\Users\Кристина\source\repos\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
 C:\Users\Кристина\source\repos\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\Кристина\Source\Repos\Sshvtssv\Exercises\Number1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
